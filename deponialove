@@ -1,0 +1,30 @@
+{
+  "source": "itorrents-igruha.org",
+  "repacker": "Игруха",
+  "games": [
+    {
+      "title": "Deponia Doomsday",
+      "page_url": "https://itorrents-igruha.org/1494-deponia-doomsday.html",
+      "torrent_url": "https://itorrents-igruha.org/download/1494-deponia-doomsday.torrent",
+      "release_date": "2016-03-01",
+      "size": "4.5 GB",
+      "description": "Продолжение приключений Руфуса, где он сталкивается с временными парадоксами и пытается спасти Депонию от разрушения."
+    },
+    {
+      "title": "Chaos on Deponia",
+      "page_url": "https://itorrents-igruha.org/7257-chaos-on-deponia.html",
+      "torrent_url": "https://itorrents-igruha.org/download/7257-chaos-on-deponia.torrent",
+      "release_date": "2012-11-06",
+      "size": "3.2 GB",
+      "description": "Вторая часть серии, где Руфус продолжает свои попытки попасть на Элизиум, сталкиваясь с новыми препятствиями и приключениями."
+    },
+    {
+      "title": "Goodbye Deponia",
+      "page_url": "https://itorrents-igruha.org/7258-goodbye-deponia.html",
+      "torrent_url": "https://itorrents-igruha.org/download/7258-goodbye-deponia.torrent",
+      "release_date": "2013-10-15",
+      "size": "3.8 GB",
+      "description": "Заключительная часть трилогии, где Руфус сталкивается с последствиями своих действий и принимает важные решения."
+    }
+  ]
+}
